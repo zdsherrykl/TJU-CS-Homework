@@ -1,0 +1,22 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="3-b1-求圆相关/3-b1-求圆相关.vcxproj" Id="73273264-53bc-49b5-8cb5-b32e7a0d3c61" />
+  <Project Path="3-b10- c/3-b10- c.vcxproj" Id="e0fb033c-b00c-4c51-a946-2db8f71da171" />
+  <Project Path="3-b10-c++/3-b10-c++.vcxproj" Id="fa63ffcf-6ce0-4db7-856e-04b72c4d4204" />
+  <Project Path="3-b11/3-b11.vcxproj" Id="00fb5768-2947-4670-9294-d02fed6e9d4f" />
+  <Project Path="3-b12-c++/3-b12-c++.vcxproj" Id="dab8a07c-3ef0-4f99-ab63-ef7ba558791d" />
+  <Project Path="3-b12-c/3-b12-c.vcxproj" Id="c97147e1-f59c-4829-9b9d-fee9e76f8604" />
+  <Project Path="3-b13-c++/3-b13-c++.vcxproj" Id="c5758855-e4af-4c4c-a663-0e335e1e2ebd" />
+  <Project Path="3-b13-c/3-b13-c.vcxproj" Id="dd5a41d5-27a4-4131-98a2-6b211b4d428e" />
+  <Project Path="3-b2-整数分解/3-b2-整数分解.vcxproj" Id="d5760dbd-959a-478e-b926-9ef94f093f1e" />
+  <Project Path="3-b3-浮点数分解/3-b3-浮点数分解.vcxproj" Id="f89fface-98ac-4fa5-be1a-ece6e13d3c82" />
+  <Project Path="3-b4-三角形两边及夹角求面积/3-b4-三角形两边及夹角求面积.vcxproj" Id="d592a3ca-1c34-4809-9b42-d6fb2c035f7b" />
+  <Project Path="3-b5-输入年月日求该年的天数/3-b5-输入年月日求该年的天数.vcxproj" Id="80bbe0b6-03a9-4f00-a59e-8626e11594da" />
+  <Project Path="3-b6-人民币大写-键盘输入/3-b6-人民币大写-键盘输入.vcxproj" Id="3a54d3e4-7de9-4044-b3bf-d580e24e302d" />
+  <Project Path="3-b7-人民币找零/3-b7-人民币找零.vcxproj" Id="d851593d-ff6d-42e1-a63d-7fe204570eab" />
+  <Project Path="3-b8-c++/3-b8-c++.vcxproj" Id="55359d2c-2674-453c-9b71-a40e14e7e570" />
+  <Project Path="3-b9-c/3-b9-c.vcxproj" Id="4e511402-0744-436c-a50b-0b7d4bef2b4b" />
+</Solution>
